@@ -1,5 +1,6 @@
 # SensaChef 👨‍🍳
 This fork includes my contributions to the Project SensaChef as part of the development team.
+
 **SensaChef** is an cooking assistant designed to make food preperation easier, smarter, and more accessible to visually impaired indivuals! With features like AI Navigation, Voice Commands, Food Detection, Cooking Mode, and a Volunteer-powered help system, SensaChef helps you bring your inner chef to life with the power of your own voice.
 
 ## Features:
